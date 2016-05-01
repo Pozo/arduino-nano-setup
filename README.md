@@ -16,6 +16,7 @@ Arduino IDE [here](http://arduino.cc/en/Main/Software).
     sudo ./arduino
 
 Arduino IDE settings : Tools/Board  `Arduino Nano` Tools/Processor `ATmega328` Tools/Programmer `Arduino as ISP`
+Arduino [Language Reference](https://www.arduino.cc/en/Reference/HomePage)
 
 #### Debug with Wireshark
 
@@ -23,6 +24,8 @@ Arduino IDE settings : Tools/Board  `Arduino Nano` Tools/Processor `ATmega328` T
     sudo wireshark
 
 #### Control with Java
+
+Official article, [Arduino and Java](http://playground.arduino.cc/Interfacing/Java)
 
     sudo apt-get install librxtx-java
     sudo usermod -a -G dialout $USER
