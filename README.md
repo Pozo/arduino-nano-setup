@@ -49,7 +49,7 @@ Arduino IDE settings : Tools/Board  `Arduino Nano` Tools/Processor `ATmega328` T
 
 ##### Terminal and Arduino IDE serial monitor dumps
 
-`echo "ON" > /dev/ttyUSB0`		      - [ubuntu.terminal.echo.pcapnp](https://github.com/Pozo/arduino-nano-setup/blob/master/ubuntu.terminal.echo.pcapng "ubuntu.terminal.echo.pcapng")
+`echo "ON" > /dev/ttyUSB0`		      - [ubuntu.terminal.echo.pcapng](https://github.com/Pozo/arduino-nano-setup/blob/master/ubuntu.terminal.echo.pcapng "ubuntu.terminal.echo.pcapng")
 
 
 `using Arduino IDE serial monitor`	- [arduino.ide.serial.monitor.pcapng](https://github.com/Pozo/arduino-nano-setup/blob/master/arduino.ide.serial.monitor.pcapng "arduino.ide.serial.monitor.pcapng")
